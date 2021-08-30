@@ -67,6 +67,7 @@
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
 <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
+ <a href="https://developer.nvidia.com" target="_blank"> <img src="https://developer.nvidia.com/sites/all/themes/devzone_new/nvidia-logo.svg" alt="NvidiaCuda" width="150" height="40"/> </a>
 </p>
 <p align="left">
 <a href="https://docs.soliditylang.org/" target="_blank"> <img src="https://docs.soliditylang.org/en/v0.8.6/_images/logo.svg" alt="solidity" width="40" height="40"/> </a>
@@ -109,6 +110,12 @@
 <a href="https://developer.android.com" target="_blank"> <img src="https://developer.android.com/images/logos/android.svg" alt="android" width="40" height="40"/> </a>
 <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
 <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
+</p>
+<p align="left">
+<a href="https://www.microsoft.com/en-in/microsoft-365/word" target="_blank"> <img src="https://www.microsoft.com/onerfstatics/marketingsites-wcus-prod/sc/53/add273.svg" alt="Word" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank"> <img src="https://www.microsoft.com/onerfstatics/marketingsites-wcus-prod/sc/3f/e5fedc.svg" alt="Excel" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/en-in/microsoft-365/project/project-management-software" target="_blank"> <img src="https://www.microsoft.com/onerfstatics/marketingsites-wcus-prod/sc/7f/a513ed.svg" alt="Planner" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/en-in/microsoft-365/powerpoint" target="_blank"> <img src="https://www.microsoft.com/onerfstatics/marketingsites-wcus-prod/sc/24/c165a0.svg" alt="PowerPoint" width="40" height="40"/> </a>
 </p>
 <p align="left">
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> <img src="https://www.adobe.com/content/dam/cc/icons/photoshop.svg" alt="photoshop" width="40" height="40"/> </a>
