@@ -114,7 +114,7 @@
 <p align="left">
 <a href="https://www.microsoft.com/en-in/microsoft-365/word" target="_blank"> <img src="https://www.microsoft.com/onerfstatics/marketingsites-wcus-prod/sc/53/add273.svg" alt="Word" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank"> <img src="https://www.microsoft.com/onerfstatics/marketingsites-wcus-prod/sc/3f/e5fedc.svg" alt="Excel" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-in/microsoft-365/project/project-management-software" target="_blank"> <img src="https://www.microsoft.com/onerfstatics/marketingsites-wcus-prod/sc/7f/a513ed.svg" alt="Planner" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/en-in/microsoft-365/project/project-management-software" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Microsoft_Project_%282019%E2%80%93present%29.svg" alt="ProjectPlanner" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/en-in/microsoft-365/powerpoint" target="_blank"> <img src="https://www.microsoft.com/onerfstatics/marketingsites-wcus-prod/sc/24/c165a0.svg" alt="PowerPoint" width="40" height="40"/> </a>
 </p>
 <p align="left">
