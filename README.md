@@ -59,7 +59,7 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://micropython.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/MicroPython_new_logo.svg" alt="micropython" width="40" height="40"/> </a>
 <a href="https://circuitpython.org/" target="_blank"> <img src="https://raw.githubusercontent.com/adafruit/circuitpython/main/logo/adafruit_blinka_angles-left.svg" alt="circuitpython" width="40" height="40"/> </a>
-<a href="https://numpy.org/" target="_blank"> <img src="https://numpy.org/images/logos/numpy.svg" alt="Numpy" width="40" height="40"/> </a>
+<a href="https://numpy.org/" target="_blank"> <img src="https://numpy.org/images/logo.svg" alt="Numpy" width="40" height="40"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="40" height="40"/> </a>
 <a href="https://matplotlib.org/" target="_blank"> <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" alt="Matplotlib" width="40" height="40"/> </a>
 <a href="https://scipy.org/" target="_blank"> <img src="https://docs.scipy.org/doc/scipy/reference/_static/scipyshiny_small.png" alt="Scipy" width="43" height="40"/> </a>
@@ -88,7 +88,7 @@
 <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
 </p>
 <p align="left">
-<a href="https://jupyter.org/" target="_blank"> <img src="https://jupyter.org/assets/main-logo.svg" alt="Jupyter Notebook" width="40" height="40"/> </a>
+<a href="https://jupyter.org/" target="_blank"> <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter Notebook" width="40" height="40"/> </a>
 <a href="https://research.google.com/colaboratory/" target="_blank"> <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colaboratory" width="40" height="40"/> </a>
 </p>
 <p align="left">
