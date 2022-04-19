@@ -62,10 +62,10 @@
 <a href="https://numpy.org/" target="_blank"> <img src="https://numpy.org/images/logo.svg" alt="Numpy" width="40" height="40"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="40" height="40"/> </a>
 <a href="https://matplotlib.org/" target="_blank"> <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" alt="Matplotlib" width="40" height="40"/> </a>
-<a href="https://scipy.org/" target="_blank"> <img src="https://docs.scipy.org/doc/scipy/reference/_static/scipyshiny_small.png" alt="Scipy" width="43" height="40"/> </a>
+<a href="https://scipy.org/" target="_blank"> <img src="https://scipy.org/images/logo.svg" alt="Scipy" width="43" height="40"/> </a>
 <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
+<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" alt="django" width="70" height="40"/> </a>
 <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
  <a href="https://developer.nvidia.com" target="_blank"> <img src="https://developer.nvidia.com/sites/all/themes/devzone_new/nvidia-logo.svg" alt="NvidiaCuda" width="150" height="40"/> </a>
 </p>
@@ -93,7 +93,7 @@
 </p>
 <p align="left">
 <a href="https://www.virtualbox.org/" target="_blank"> <img src="https://forums.virtualbox.org/styles/prosilver/imageset/vbox_94px.png" alt="VirtualBox" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="Docker" width="60" height="43"/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker" width="40" height="40"/> </a>
 <a href="https://kubernetes.io/" target="_blank"> <img src="https://kubernetes.io/images/favicon.png" alt="Kubernetes" width="40" height="40"/> </a>
 </p>
 <p align="left">
