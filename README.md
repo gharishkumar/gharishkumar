@@ -23,6 +23,7 @@
 <a href="https://www.ieee.org/" target="_blank"> <img src="https://www.ieee.org/content/dam/ieee-org/ieee/web/org/globals/88857-22.gif" alt="IEEE" width="71" height="40"/> </a>
 <a href="https://www.ieindia.org/webui/iei-home.aspx" target="_blank"> <img src="https://www.ieindia.org/Image/iei_Logo.jpg" alt="IE" width="40" height="40"/> </a>
 <a href="https://imperialsociety.in/" target="_blank"> <img src="https://imperialsociety.in/wp-content/uploads/2019/05/ISIE-NEW-LOGO-1.jpg" alt="ISIE" width="120" height="40"/> </a>
+<a href="https://saeindia.org/" target="_blank"> <img src="https://saeindia.org/jbframework/themes/saeindia/images/logo.png" alt="SAE India" width="120" height="40"/> </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -129,7 +130,10 @@
 <a href="https://www.sketchup.com/" target="_blank"> <img src="https://www.sketchup.com/sites/www.sketchup.com/files/homepage/ico-su-red-square-32px.svg" alt="SketchUp" width="40" height="40"/> </a>
 <a href="https://ultimaker.com/software/ultimaker-cura" target="_blank"> <img src="https://core-electronics.com.au/media/wysiwyg/tutorials/Tim/0_Cura_Iogo_Image.png" alt="Cura" width="40" height="40"/> </a>
 </p>
-
+<h3 align="left">Others:</h3>
+<p align="left">
+<img src="https://rubiks.com/favicon-32x32.png" alt="Rubiks" width="40" height="40"/> <img src="https://www.chess.com/bundles/web/favicons/favicon.4795dc4e.svg" alt="Chess" width="40" height="40"/>
+</p>
 <h3 align="left">Spotify now listening:</h3>
 
 [![Spotify](https://spotify-xi-indol.vercel.app/api/spotify)](https://open.spotify.com/user/171ippmafru4xewnd30bcvzqt)
