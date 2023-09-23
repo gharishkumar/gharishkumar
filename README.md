@@ -118,6 +118,7 @@
 <a href="https://www.microsoft.com/en-in/microsoft-365/project/project-management-software" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Microsoft_Project_%282019%E2%80%93present%29.svg" alt="ProjectPlanner" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/en-in/microsoft-365/powerpoint" target="_blank"> <img src="https://www.microsoft.com/onerfstatics/marketingsites-wcus-prod/sc/24/c165a0.svg" alt="PowerPoint" width="40" height="40"/> </a>
  <a href="https://obsidian.md/" target="_blank"> <img src="https://ph-files.imgix.net/527ac78b-ddc4-4240-ab36-28126e710cb7.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=100&h=100&fit=crop&bg=0fff&dpr=1" alt="Obsidian" width="40" height="40"/> </a>
+ <a href="https://pymupdf.readthedocs.io/" target="_blank"> <img src="https://pymupdf.readthedocs.io/en/latest/_static/PyMuPDF.ico" alt="PyMuPDF" width="40" height="40"/> </a>
 </p>
 <p align="left">
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> <img src="https://www.adobe.com/content/dam/cc/icons/photoshop.svg" alt="photoshop" width="40" height="40"/> </a>
